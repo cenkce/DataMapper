@@ -1,6 +1,8 @@
 {
     "name": "cenkce/datamapper",
     "description": "Data mapper for entities and dto",
+    "license" : "MIT",
+    "type" : "project",
     "authors": [
         {
             "name": "Cenk Cetinkaya",
