@@ -1,0 +1,16 @@
+{
+    "name": "semio/datamapper",
+    "description": "Data mapper for entities and dto",
+    "authors": [
+        {
+            "name": "Cenk Cetinkaya",
+            "email": "mail@cenkcetinkaya.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Semio\\DataMapper\\": "src/"
+      }
+    },
+    "require": {}
+}
