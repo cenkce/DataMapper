@@ -17,11 +17,5 @@
         "Semio\\DataMapper\\": "src/"
       }
     },
-    "require": {},
-    "extra": {
-      "branch-alias": {
-        "dev-master": "0.3"
-      }
-    }
-
+    "require": {}
 }
