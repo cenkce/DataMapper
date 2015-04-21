@@ -2,7 +2,7 @@
     "name": "cenkce/datamapper",
     "description": "Data mapper for entities and dto",
     "license" : "MIT",
-    "type" : "project",
+    "type" : "library",
     "authors": [
         {
             "name": "Cenk Cetinkaya",
@@ -17,5 +17,11 @@
         "Semio\\DataMapper\\": "src/"
       }
     },
-    "require": {}
+    "require": {},
+    "extra": {
+      "branch-alias": {
+        "dev-master": "0.3"
+      }
+    }
+
 }
