@@ -7,7 +7,7 @@
  * To change this template use File | Settings | File Templates.
  */
 
-namespace Semio\Datamapper;
+namespace Semio\DataMapper;
 
 /**
  * Class Mapper
